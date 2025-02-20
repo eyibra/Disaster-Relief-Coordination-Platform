@@ -5,3 +5,5 @@ N
 contracts/need-assessment.clar,3/5/357be1d2f02b4cd496d11c0c98feb06aa763ad07
 M
 tests/need-assessment.test.ts,5/d/5db0068b59b0015eb935b0b6b2fdc3eb4ae96f9f
+R
+"contracts/resource-allocation.clar,b/8/b894c2e4e1f74c4841d3bb7e04dab1a5e317892f

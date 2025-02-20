@@ -11,3 +11,5 @@ Q
 !tests/resource-allocation.test.ts,8/5/85db2f25ff7429c4a1fa3d43237841ead7e2e0ac
 P
  contracts/donation-tracking.clar,5/7/57ceaee4d51f6d10dd8680c68962434359b6fc3e
+O
+tests/donation-tracking.test.ts,a/c/acdafffbdc654fc6347443ce421e45e2a2e1544c
